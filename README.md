@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, MERN**
 
-- 📫 How to reach me **ekpemcr7@gmail.com**
+- 📫 How to reach me **eldhosekpaul420@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
