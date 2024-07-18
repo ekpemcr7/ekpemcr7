@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eldhose K Paul</h1>
 <h3 align="center">A passionate frontend developer with a vision</h3>
 
-- 🌱 I’m currently learning *ASP Full Stack, MERN**
+- 🌱 I’m currently learning **ASP Full Stack, MERN**
 
 - 📫 How to reach me **eldhosekpaul420@gmail.com**
 
